@@ -2587,4 +2587,13 @@
 				text-align: left;
 			}
 
+			img.img-valign {
+				vertical-align: middle;
+			}
+
+			span.txt-valign {
+				margin-left: 1em;
+				vertical-align: middle;
+			}
+
 	}
